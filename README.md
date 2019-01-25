@@ -1,2 +1,6 @@
-# testRepo
-just a test
+
+#testRepo
+
+My first Github repository
+
+add a line of text
